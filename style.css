@@ -1,0 +1,41 @@
+.card-header{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    padding: 4px;
+    border: 1px solid gainsboro;
+    
+    width: 100%;
+}
+.card-footer{
+    background-color: aliceblue;    
+    padding: 8px;
+    display: flex;
+    justify-content: right;
+    border: 1px solid gainsboro;
+    
+}
+.card-footer button{
+    margin: 5px;
+
+}
+.container{
+    margin-top: 10px;
+    border: 1px solid gainsboro;
+}
+
+.datoscard{
+    margin-bottom: 10px;
+}
+.datospersonales{
+    margin-bottom: 10px;
+}
+.fondogris{
+    background-color: grey;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+
